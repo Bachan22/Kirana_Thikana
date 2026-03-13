@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Black Store App
 
 Full-stack store recommendation website with:
@@ -24,3 +25,7 @@ Full-stack store recommendation website with:
 
 - `client`: React app
 - `server`: Express API and SQLite setup
+=======
+# Kirana_Thikana
+Helps to find shop location for you 
+>>>>>>> 800925af6380ae62b6b18e69da9d3e13df7d7c6b
